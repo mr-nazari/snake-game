@@ -1,4 +1,4 @@
-# SnakeGame
+# Snake Game
 Try to increase the length of the snake 🐍
 
 ## Installation
