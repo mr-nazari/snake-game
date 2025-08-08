@@ -19,7 +19,7 @@ HASHTAG_ICON = '#'
 SNAKE_ICON = '='
 FOOD_ICON = '@'
 world = list()
-snake = deque([(5, i + 5) for i in range(4)])  # range(4) -> 3
+snake = deque([(5, i + 5) for i in range(4)])
 snake_position = RIGHT
 food = None
 score = 0
